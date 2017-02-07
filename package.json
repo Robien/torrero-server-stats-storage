@@ -1,0 +1,23 @@
+{
+  "name": "torrero-server-stats-storage",
+  "version": "1.0.0",
+  "description": "a centralized server to save stats of torrero users",
+  "main": "index.js",
+  "dependencies": {
+    "corser": "^2.0.1",
+    "eth-lightwallet": "^2.5.3",
+    "ethereumjs-util": "^5.1.0",
+    "web3": "^0.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torrero",
+    "server",
+    "stats"
+  ],
+  "author": "DeBugs",
+  "license": "MIT"
+}
