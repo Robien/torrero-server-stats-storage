@@ -19,5 +19,13 @@
     "stats"
   ],
   "author": "DeBugs",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robien/torrero-server-stats-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Robien/torrero-server-stats-storage/issues"
+  },
+  "homepage": "https://github.com/Robien/torrero-server-stats-storage#readme"
 }
